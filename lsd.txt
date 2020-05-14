@@ -1,0 +1,9 @@
+LSD
+    lsd_varequipsave.s1
+        装備セット用ファイル
+        ore_hack からの移植であり、(多分) 同じなので省略
+
+
+    faction.s1
+        Faction用ファイル
+        oo からの移植であり、(多分) 同じなので省略

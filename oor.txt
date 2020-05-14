@@ -1,0 +1,29 @@
+oor
+    gdatac.s1
+        oom のそれと概ね同じだが、20-23 および 750-769 しか使われない
+
+
+    oorspelldata.s1
+        i32 x 14 x 50
+        readjust専用自作魔法を格納するための変数 (ospelldata.s1 に対応)
+
+        変数の使用方法は ospelldata.s1 と同じ
+
+
+    oorspelldatan.s1
+        string x 6 x 50
+        readjust専用自作魔法を格納するための変数 (ospelldatan.s1 に対応)
+
+        変数の使用方法は ospelldatan.s1 と同じ
+
+
+    cmgdata.s1
+        MMA/MMAh のそれと (多分) 同じなので省略
+
+
+    equip_save.bin
+        ore_hack と同じなので省略 (直接の取り込み元は oom)
+
+
+    oommap_M_L.s2
+        oom と同じなので省略

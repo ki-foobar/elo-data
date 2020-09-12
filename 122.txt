@@ -547,7 +547,10 @@ itemmemory
     kitem.s1
     0 identify_state
     1 generate_count
-    2 is_decoded
+    2 spellbook_state
+      0 未解読
+      1 解読済みかつ予約中でない
+      2 解読済みかつ予約中
 
 recipememory
     dim recipememory, 1200

@@ -545,8 +545,8 @@ qdata.s1
 itemmemory
     dim itemmemory 3, 800
     kitem.s1
-    0 generate_count
-    1 identify_state
+    0 identify_state
+    1 generate_count
     2 is_decoded
 
 recipememory
